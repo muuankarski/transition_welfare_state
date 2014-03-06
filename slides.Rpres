@@ -2,7 +2,6 @@ Welfare State and Post-Socialist Transition
 ==============
 css: slides.css
 transition: fade
-transition-speed: fast
 <!--*Theoretical approaches and empirical evidence* -->
 </br>
 
@@ -235,6 +234,8 @@ In 1992-2000
 - proportion of raw materials of exports rose from 66 % to 81 %
 
 New social problems
+========================================================
+incremental: false
 
 Poverty
 ----------------------------------------
@@ -256,10 +257,10 @@ Unemployment
 ~1995 20 % unemployed, 2003 ~9 %
 - hidden unemployment ~33 % of workforce in addition to official figures
 
-
+Differences in strategies in regard to international organisations
 ========================================================
 
-- Third,  not only were there greatly different social adjustments between countries due to inevitable system change, but especially with the path chosen regarding to institutional reforms and international and global cooperation.
+- There were not only were there greatly different social adjustments between countries due to inevitable system change, but especially with the path chosen regarding to institutional reforms and international and global cooperation.
     -  Czech Republic, Hungary, Poland and Slovakia were eagerly joining OECD, NATO, EU and other international organizations, whereas Russia, Ukraine and Moldova stayed reluctant to processes of Europeanization and globalization.
 - These choices made, in political decision making and in institutional reforms, have had a great impact on the welfare state development in post-socialist countries, and will greatly affect the development and choices available in the future.
 
@@ -299,32 +300,36 @@ The newly emerging welfare regimes in East Central Europe do not conform to any 
 -  Rather, they mostly mix elements of the social democratic and the conservative regimes.
 -  Since there are signs indicating that the future European social model will be based on a merge of the social democratic and conservative welfare models, the welfare development of East Central Europe in the 1990s suggests that the welfare states of the region will converge on that newly formed European social policy model." (Tomka 2006, 155–156)
 
-Current views on post-socialist transition 1
+Current views on post-socialist transition
 ========================================================
 
-- Debate on post-socialist welfare state has intensified lately as two decades of transition has passed
-- [Offe, Claus. (2009)](http://books.google.fi/books/about/Post_Communist_Welfare_Pathways.html?id=EkZqPgAACAAJ&redir_esc=y) points out two major approaches in that discussion:
-    1. to what extend institutional path-dependencies from imperial and interwar period have affected the welfare development in post-socialist era
-    2. to what extend do they encounted path-departures that were conditioned by either a) th ebreakdown of state socialism with the deep crisis and b) the accession of the new members to the European Union and its patterns of capitalist democracy.
+Debate on post-socialist welfare state has intensified lately as two decades of transition has passed
 
-Current views on post-socialist transition 2
-========================================================
+[Offe, Claus. (2009)](http://books.google.fi/books/about/Post_Communist_Welfare_Pathways.html?id=EkZqPgAACAAJ&redir_esc=y) points out two major approaches in that discussion:
 
-One of the most compherensive works is [Tomas Inglot's (2008) Welfare States in East Central Europe](http://books.google.fi/books?id=gXraAAAAMAAJ&dq=Welfare+States+in+East+Central+Europe,+1919-2004&hl=fi&sa=X&ei=zr1DUYnmKMzZsga97oGwBA&ved=0CC8Q6AEwAA) that studies the welfare state development from prewar period until EU accession in Czech, Slovak, Hungary and Poland and comes up with the concept of **emergency welfare state** meaning that political and economical unstability has fuelled temporary welfare reforms, emergency reforms, that have remained and formed a unique institutional layering
+1. to what extend institutional path-dependencies from imperial and interwar period have affected the welfare development in post-socialist era
+2. to what extend do they encounted path-departures that were conditioned by either a) th ebreakdown of state socialism with the deep crisis and b) the accession of the new members to the European Union and its patterns of capitalist democracy.
+
+One of the most compherensive works is [Tomas Inglot's (2008) Welfare States in East Central Europe](http://books.google.fi/books?id=gXraAAAAMAAJ&dq=Welfare+States+in+East+Central+Europe,+1919-2004&hl=fi&sa=X&ei=zr1DUYnmKMzZsga97oGwBA&ved=0CC8Q6AEwAA) that studies the welfare state development from prewar period until EU accession in Czech, Slovak, Hungary and Poland. 
+
+Inglot comes up with the concept of **emergency welfare state** meaning that political and economical unstability has fuelled temporary welfare reforms, emergency reforms, that have remained and formed a unique institutional layering
 
 ========================================================
 type: section
 
 <h1>4. Post-socialist welfare state in comparative perspective</h1>
 
-
+Quality of Government Institute data
 ===============================================
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
+
+Quotation from [*Quality of Government Institute website*](http://www.qog.pol.gu.se/)
+
+>The QoG Institute was founded in 2004 by Professor Bo Rothstein and Professor Sören Holmberg. It is an independent research institute within the Department of Political Science at the University of Gothenburg. We conduct and promote research on the causes, consequences and nature of Good Governance and the Quality of Government (QoG) - that is, trustworthy, reliable, impartial, uncorrupted and competent government institutions.
+
+>The main objective of our research is to address the theoretical and empirical problem of how political institutions of high quality can be created and maintained. A second objective is to study the effects of Quality of Government on a number of policy areas, such as health, the environment, social policy, and poverty. We approach these problems from a variety of different theoretical and methodological angles.
+
+Gadgets using the data
+--------------------------------
 
 - [Standard data with all countries](http://glimmer.rstudio.com/muuankarski/QogCorr/)
 - [Social Policy data with OECD countries](http://glimmer.rstudio.com/muuankarski/QogCorr/)
