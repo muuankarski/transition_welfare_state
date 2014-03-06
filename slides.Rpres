@@ -47,32 +47,42 @@ Post-socialist transition
 Social policy
 ========================================================
 
+Some definitions:
 
-- According to [**Wikipedia**](http://en.wikipedia.org/wiki/Social_policy) social policy is *defined as actions that affect the well-being of members of a society through shaping the distribution of and access to goods and resources in that society*
-- **The Malcolm Wiener Center for Social Policy at Harvard University** describes social policy as *public policy and practice in the areas of health care, human services, criminal justice, inequality, education, and labor*.
-- Similarly **The Department of Social Policy at the London School of Economics**, defines social policy as *an interdisciplinary and applied subject concerned with the analysis of societies' responses to social need.*
+>actions that affect the well-being of members of a society through shaping the distribution of and access to goods and resources in that society ([Wikipedia](http://en.wikipedia.org/wiki/Social_policy))
 
-- Many other definitions can be found, but to on this lecture we can think social policy both a) **as a set of public policies aimed at improving human welfare**, and b) **as a academic discipline**
+>public policy and practice in the areas of health care, human services, criminal justice, inequality, education, and labor ([The Malcolm Wiener Center for Social Policy at Harvard University](http://www.hks.harvard.edu/centers/wiener))
+
+>an interdisciplinary and applied subject concerned with the analysis of societies' responses to social need. ([The Department of Social Policy at the London School of Economics](http://www.lse.ac.uk/socialPolicy/Home.aspx))
+
+Many other definitions can be found, but to on this lecture we can think social policy both 
+- as a set of public policies aimed at improving human welfare, and 
+- as a academic discipline
 
 
-Welfare State
+Welfare State 1
 ========================================================
 
-- *Welfare state is responsible for guaranteeing the well-being and social rights of it's citizens* [(Gösta Esping-Andersen, 1990)](http://books.google.fi/books/about/3_Worlds_of_Welfare_Capitalism.html?id=Vl2FQgAACAAJ&redir_esc=y)
-- *Welfare state refers to wide set of state institutions that represent the role of state in ensuring thr decent living standards for it's citizens* [(Joakim Palme 1990)](http://www.worldcat.org/title/pension-rights-in-welfare-capitalism-the-development-of-old-age-pensions-in-18-oecd-countries-1930-to-1986/oclc/26763202)
-- According to [Walter Korpi (1983)](http://books.google.fi/books?id=M-E9AAAAIAAJ&printsec=frontcover&dq=democratic+class+struggle&hl=fi&sa=X&ei=Eh9DUcq9M8WTtQaEtoG4BQ&ved=0CC8Q6AEwAA) welfare state is responsible for controlling the inequality of living conditions in a society. In addition he emphasizes democracy and relatively high level of living stadards as a precondition for welfare state.
-- [Stein Ringen (1988)](http://journals.cambridge.org/action/displayAbstract?fromPage=online&aid=3309540) argues that the concept of welfare state is used 1) as a synonym for the societys *social sector* as a counter force for the economical sector, 2) to describe systems with *large public sector* and 3) sets of certain social policies. Ringen as well as Walter Korpi have emphasised democracy as a precondition for welfare state.
+>Welfare state is responsible for guaranteeing the well-being and social rights of it's citizen [(Gösta Esping-Andersen, 1990)](http://books.google.fi/books/about/3_Worlds_of_Welfare_Capitalism.html?id=Vl2FQgAACAAJ&redir_esc=y)
 
----
+>Welfare state refers to wide set of state institutions that represent the role of state in ensuring thr decent living standards for it's citizens*[(Joakim Palme 1990)](http://www.worldcat.org/title/pension-rights-in-welfare-capitalism-the-development-of-old-age-pensions-in-18-oecd-countries-1930-to-1986/oclc/26763202)
 
-- Definitions above are used from research on affluent market economies.  In the study of post-socialist space the concept of welfare state is used mainly describing the sectors of public system that redistribute the state funds through social transfers and social services in order to tackle social problems, inequalities and often to ensure the political support of the ruling party. 
+>Welfare state is responsible for controlling the inequality of living conditions in a society. In addition he emphasizes democracy and relatively high level of living stadards as a precondition for welfare state. [(Walter Korpi (1983))](http://books.google.fi/books?id=M-E9AAAAIAAJ&printsec=frontcover&dq=democratic+class+struggle&hl=fi&sa=X&ei=Eh9DUcq9M8WTtQaEtoG4BQ&ved=0CC8Q6AEwAA)
+
+>concept of welfare state is used 1) as a synonym for the societys *social sector* as a counter force for the economical sector, 2) to describe systems with *large public sector* and 3) sets of certain social policies. Ringen as well as Walter Korpi have emphasised democracy as a precondition for welfare state. [(Stein Ringen (1988))](http://journals.cambridge.org/action/displayAbstract?fromPage=online&aid=3309540)
+
+Welfare State 2
+========================================================
+
+Definitions above are used from research on affluent market economies.  
+
+In the study of **post-socialist space** the concept of welfare state is used mainly describing the **sectors of public system that redistribute the state funds through social transfers and social services in order to tackle social problems, inequalities and often to ensure the political support of the ruling party.**
 
 
 ========================================================
 type: section
 
 <h1>2. Theories of welfare state</h1>
-
 
 Main theoretical approaches to welfare state development 1
 ========================================================
@@ -127,13 +137,9 @@ Other functionalist works
 - [Rimlinger (1971) Welfare policy and industrialization in Europe, America, and Russia](http://www.getcited.org/pub/101520226)
 - [Myles and Quadagno (2002) Political theories of the welfare state](http://www.jstor.org/discover/10.1086/324607?uid=3737976&uid=2&uid=4&sid=21101305707081)
 
----
-
 **Functionalist Marxist approaches**
 
 - while also adopting a highly functionalist understanding of the welfare state, a Marxist approach emphasised instead that **welfare spending was a contradictory process which created tendencies towards economic, social and political crisis**. See: [O’Connor (1973) Fiscal Crisis of the State](http://books.google.fi/books?id=onvnIE4WF0wC&printsec=frontcover&dq=O%E2%80%99Connor+Fiscal+Crisis+of+the+State&hl=fi&sa=X&ei=_QBDUaTmH4fHswa50IGoAg&ved=0CDEQ6AEwAA)
-
----
 
 **The welfare state is a product of modernisation of societies**
 
@@ -220,22 +226,28 @@ The key strands in **current** welfare state thinking
 
 
 
-4. The return of structural theories
+4. The return of structural theories 1
 ========================================================
 
 >At the very moment when political theories of the welfare state seemed to have relegated the ‘logic of industrialism’ thesis with its emphasis on the over-determining role of large impersonal economic forces to the critical list, the theory was revived in new form [(Myles and Quadagno, 2002: 41)](http://www.google.fi/url?sa=t&rct=j&q=myles%20and%20quadagno%2C%202002&source=web&cd=1&ved=0CB8QFjAA&url=http%3A%2F%2Frszarf.ips.uw.edu.pl%2Fwelfare-state%2Fmyles.pdf&ei=by2JUPrhFqby4QSF9ICYAw&usg=AFQjCNF_N1eSAklTIQ79WGt5GCtWARnZtQ&cad=rja). 
 
 - The new spectres haunting welfare state theorising include globalisation, deindustrialisation, ‘new politics of welfare’ and ecological sustainability
 
-## 4. The return of structural theories: Globalisation and Deindustrialisation
+4. The return of structural theories 2
+========================================================
+
+Globalisation and Deindustrialisation
+--------------------------------------------------------
 
 - [Iversen and Cusack (2000)The Causes of Welfare State Expansion: Deindustrialization or Globalization?](http://journals.cambridge.org/action/displayAbstract?fromPage=online&aid=7660120)
 
-## 4. The return of structural theories: New politics of Welfare
+New politics of Welfare
+--------------------------------------------------------
 
 - [Paul Pierson (2001) New politics of the welfare state - book](http://books.google.fi/books/about/The_New_Politics_of_the_Welfare_State.html?id=Je7SNvJVLWQC&redir_esc=y)
 
-## 4. The return of structural theories: Ecological sustainability
+Ecological sustainability
+--------------------------------------------------------
 
 - [Max Koch (2011) Climate Change and Capitalism](http://www.palgrave.com/products/title.aspx?pid=413401)
 
@@ -251,17 +263,12 @@ Postwar Socialist Welfare regime
 
 - Postwar socialist welfare regimes were distinct from any of these paradigms. 
 
----
-
 - Unlike in developing countries, basic welfare was relatively comprehensive and secure. 
 - Unlike in Europe and East Asia, welfare policy was determined by the state rather than democratic/electoral politics. 
 - Furthermore, unlike in other regions, welfare provision was concentrated mainly at the enterprise level. 
 - The Soviet Union  (and other socialist Eastern European countries as well as China) had a distinct welfare regime, which was constructed on two pillars. 
     - On the one hand, the state provided non-monetary social benefits for particular social groups. 
     - On the other hand, most social benefits and services were based on work, and distributed at on the enterprise level. Firms in such planned economy were not enterprises as is understood in the market economy.
-
----
-
 - Both of these old pillars are vanishing away in contemporary market system.
 
 
@@ -287,16 +294,13 @@ Post-socialist transition and welfare state
 
 - Third,  not only were there greatly different social adjustments between countries due to inevitable system change, but especially with the path chosen regarding to institutional reforms and international and global cooperation.
     -  Czech Republic, Hungary, Poland and Slovakia were eagerly joining OECD, NATO, EU and other international organizations, whereas Russia, Ukraine and Moldova stayed reluctant to processes of Europeanization and globalization.
-
----
-
 - These choices made, in political decision making and in institutional reforms, have had a great impact on the welfare state development in post-socialist countries, and will greatly affect the development and choices available in the future.
 
 
-
-
-Scenarious for post-socialist welfare state development by [János Kovács (2002)](http://www.ingentaconnect.com/content/routledg/wep/2002/00000025/00000002/art00010)
+Scenarious for post-socialist welfare state development 1
 ========================================================
+
+*by [János Kovács (2002)](http://www.ingentaconnect.com/content/routledg/wep/2002/00000025/00000002/art00010)*
 
 **First**
 -  the prediction was widely shared by western social policy experts that the welfare state development would follow none of the continental European or Scandinavian models, but rather the liberal model of United Kingdom or Unites States with means tested benefits and a moderate system of social insurance targeted at low-income households (Esping-Andersen, 1990, 26).
@@ -306,9 +310,10 @@ Scenarious for post-socialist welfare state development by [János Kovács (2002
 -  As Kovacs puts it “the few relics of the command economy with all its dominant features such as the over-centralization, waste, rationing, shortage, paternalism, rent-seeking and corruption” (Kovács, 2002, 192)
 
 
-Scenarious for post-socialist welfare state development by [János Kovács (2002)](http://www.ingentaconnect.com/content/routledg/wep/2002/00000025/00000002/art00010)
+Scenarious for post-socialist welfare state development 2
 ========================================================
 
+*by [János Kovács (2002)](http://www.ingentaconnect.com/content/routledg/wep/2002/00000025/00000002/art00010)*
 
 **The third**
 -  alternative poses a mix of corporatist model with additional private elements, a mix of “great variety of small transformations” (Kovács, 2002, 193), rather than a result of a great and consistent reform.
@@ -316,11 +321,12 @@ Scenarious for post-socialist welfare state development by [János Kovács (2002
 
 
 
-## Scenarious for post-socialist welfare state development by [Bela Tomka (2006)](http://ceses.cuni.cz/CESES-141-version1-5_2__Tompka_2006_CEE_and_the_European_Social_Model.pdf) 1
+Scenarious for post-socialist welfare state development
+========================================================
+
+*by [Bela Tomka (2006)](http://ceses.cuni.cz/CESES-141-version1-5_2__Tompka_2006_CEE_and_the_European_Social_Model.pdf)*
 
 > The newly emerging welfare regimes in East Central Europe do not conform to any of the regime types in Esping-Andersen's typology.
-
-## Scenarious for post-socialist welfare state development by [Bela Tomka (2006)](http://ceses.cuni.cz/CESES-141-version1-5_2__Tompka_2006_CEE_and_the_European_Social_Model.pdf) 2
 
 -  Rather, the new welfare systems are a mixture of different elements of these regimes.
 -  As a rule there has been no marked convergence to the residual US-type welfare model.
@@ -329,20 +335,18 @@ Scenarious for post-socialist welfare state development by [János Kovács (2002
 -  Since there are signs indicating that the future European social model will be based on a merge of the social democratic and conservative welfare models, the welfare development of East Central Europe in the 1990s suggests that the welfare states of the region will converge on that newly formed European social policy model." (Tomka 2006, 155–156)
 
 
-Current views on post-socialist transition
+Current views on post-socialist transition 1
 ========================================================
 
 - Debate on post-socialist welfare state has intensified lately as two decades of transition has passed
-
----
-
 - [Offe, Claus. (2009)](http://books.google.fi/books/about/Post_Communist_Welfare_Pathways.html?id=EkZqPgAACAAJ&redir_esc=y) points out two major approaches in that discussion:
     1. to what extend institutional path-dependencies from imperial and interwar period have affected the welfare development in post-socialist era
     2. to what extend do they encounted path-departures that were conditioned by either a) th ebreakdown of state socialism with the deep crisis and b) the accession of the new members to the European Union and its patterns of capitalist democracy.
 
----
+Current views on post-socialist transition 2
+========================================================
 
-- One of the most compherensive works is [Tomas Inglot's (2008) Welfare States in East Central Europe](http://books.google.fi/books?id=gXraAAAAMAAJ&dq=Welfare+States+in+East+Central+Europe,+1919-2004&hl=fi&sa=X&ei=zr1DUYnmKMzZsga97oGwBA&ved=0CC8Q6AEwAA) that studies the welfare state development from prewar period until EU accession in Czech, Slovak, Hungary and Poland and comes up with the concept of **emergency welfare state** meaning that political and economical unstability has fuelled temporary welfare reforms, emergency reforms, that have remained and formed a unique institutional layering
+One of the most compherensive works is [Tomas Inglot's (2008) Welfare States in East Central Europe](http://books.google.fi/books?id=gXraAAAAMAAJ&dq=Welfare+States+in+East+Central+Europe,+1919-2004&hl=fi&sa=X&ei=zr1DUYnmKMzZsga97oGwBA&ved=0CC8Q6AEwAA) that studies the welfare state development from prewar period until EU accession in Czech, Slovak, Hungary and Poland and comes up with the concept of **emergency welfare state** meaning that political and economical unstability has fuelled temporary welfare reforms, emergency reforms, that have remained and formed a unique institutional layering
 
 
 ========================================================
@@ -377,15 +381,17 @@ type: section
 
 
 
-[Aleksanteri institute - Choices of Russian modernisation](http://www.helsinki.fi/aleksanteri/crm/)
+Aleksanteri institute - Choices of Russian modernisation
 ========================================================
 
-Since the collapse of the Soviet Union, socialist welfare structures have experienced rapid, large-scale changes and constant reformulation. Modernisation and institutional reforms have not necessarily proceeded as expected and Russian welfare institutions remain rather weak and of low quality. Our hypotheses, based on the theoretical starting points and preliminary empirical analyses presented above,are the following
+Since the collapse of the Soviet Union, socialist welfare structures have experienced rapid, large-scale changes and constant reformulation. Modernisation and institutional reforms have not necessarily proceeded as expected and Russian welfare institutions remain rather weak and of low quality.
+
+**Hypothesis**
 
 1. Because of the lack of democratic (class) struggle the most probable welfare regime in Russia would be a liberal model.
 2. The power vertical of the political system enforces state based social policy./ gives elites most power in setting priorities for/ shaping welfare policies
 3. Hybrid structure of welfare emerges out of these contradictory tendencies, so that and Russian social policy tends to oscillate between neoliberalism and state based soviet legacy, between individulisation of risks and strong administrative control.
-4. Such regime creates contradictory incentives at the micro level of society. Intended outcomes at the macro level may have unintended effects at the micro level and vice versa.
+4. Such regime creates contradictory incentives at the micro level of society. Intended outcomes at the macro level may have unintended effects at the micro level and vice versa. *[(see website)](http://www.helsinki.fi/aleksanteri/crm/)*
 
 
 ========================================================
