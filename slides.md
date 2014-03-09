@@ -19,20 +19,22 @@ transition: fade
 
 Content
 ========================================================
-incremental: false 
+incremental: true 
 
-1. Introduction - Central Concepts & Theories of Welfare State
-2. Socialist welfare state
+1. Introduction 
+    - Central Concepts
+    - Theories of Welfare State
+2. Socialist welfare state - the ideal & the reality
 3. Post-socialist welfare state
-4. Post-socialist welfare state in comparative perspective
+    - the aftermath of the collapse of Soviet bloc
+    - scenarious for welfare state development
+4. Post-socialist welfare states in comparative perspective
 
 
 ========================================================
-type: section
+type: subsection
 
-<h1>1. Introduction - Central concepts</h1>
-
-
+<h1>1. Introduction </br> - Central concepts</h1>
 
 Post-socialist transition
 ========================================================
@@ -59,26 +61,44 @@ Many other definitions can be found, but on this lecture we can think social pol
 - as a set of public policies aimed at improving human welfare, and 
 - as an academic discipline
 
+What social policies
+=======================================
+
+Welfare services
+---------------------------------------
+- social care
+- health care
+- child care
+- child protection
+- old-age care
+
+Welfare transfers
+---------------------------------------
+- social assistance
+- unemployment insurance
+- pensions
+- family benefits
+
 
 Welfare State
 ========================================================
 incremental: false 
 
-responsible for guaranteeing the well-being and social rights of it's citizen [(Gösta Esping-Andersen, 1990)](http://books.google.fi/books/about/3_Worlds_of_Welfare_Capitalism.html?id=Vl2FQgAACAAJ&redir_esc=y)
+>responsible for guaranteeing the well-being and social rights of it's citizen [(Gösta Esping-Andersen, 1990)](http://books.google.fi/books/about/3_Worlds_of_Welfare_Capitalism.html?id=Vl2FQgAACAAJ&redir_esc=y)
 
-refers to wide set of state institutions that represent the role of state in ensuring the decent living standards for it's citizens[(Joakim Palme 1990)](http://www.worldcat.org/title/pension-rights-in-welfare-capitalism-the-development-of-old-age-pensions-in-18-oecd-countries-1930-to-1986/oclc/26763202)
+>refers to wide set of state institutions that represent the role of state in ensuring the decent living standards for it's citizens[(Joakim Palme 1990)](http://www.worldcat.org/title/pension-rights-in-welfare-capitalism-the-development-of-old-age-pensions-in-18-oecd-countries-1930-to-1986/oclc/26763202)
 
-responsible for controlling the inequality of living conditions in a society. Democracy and relatively high level of living standards as a precondition for welfare state. [(Walter Korpi, 1983)](http://books.google.fi/books?id=M-E9AAAAIAAJ&printsec=frontcover&dq=democratic+class+struggle&hl=fi&sa=X&ei=Eh9DUcq9M8WTtQaEtoG4BQ&ved=0CC8Q6AEwAA)
+>responsible for controlling the inequality of living conditions in a society. Democracy and relatively high level of living standards as a precondition for welfare state. [(Walter Korpi, 1983)](http://books.google.fi/books?id=M-E9AAAAIAAJ&printsec=frontcover&dq=democratic+class+struggle&hl=fi&sa=X&ei=Eh9DUcq9M8WTtQaEtoG4BQ&ved=0CC8Q6AEwAA)
 
-is used 1) as a synonym for the societys *social sector* as a counter force for the economical sector, 2) to describe systems with *large public sector* and 3) sets of certain social policies. Ringen as well as Walter Korpi have emphasised democracy as a precondition for welfare state. [(Stein Ringen, 1988)](http://journals.cambridge.org/action/displayAbstract?fromPage=online&aid=3309540)
+>is used 1) as a synonym for the societys *social sector* as a counter force for the economical sector, 2) to describe systems with *large public sector* and 3) sets of certain social policies. Ringen as well as Walter Korpi have emphasised democracy as a precondition for welfare state. [(Stein Ringen, 1988)](http://journals.cambridge.org/action/displayAbstract?fromPage=online&aid=3309540)
 
 Definitions above are used from research on affluent market economies, whereas in the study of **post-socialist space** the concept of welfare state is used mainly describing the **sectors of public system that redistribute the state funds through social transfers and social services in order to tackle social problems, inequalities and often to ensure the political support of the ruling party.**
 
 
 ========================================================
-type: section
+type: subsection
 
-<h1>1. Introduction - Theories of Welfare State</h1>
+<h1>1. Introduction </br> - Theories of Welfare State</h1>
 
 Theories of Welfare State
 ========================================================
@@ -151,7 +171,7 @@ A non-Western Welfare state typologies
 - [Gough and Therborn (2010)](http://personal.lse.ac.uk/goughi/Gough%20Therborn%20final_chapter_47_17.09.2009_10.46.31.pdf), for their part, categorized several post-socialist states as proto-welfare states, which share in common relatively extensive state commitments to welfare provisionand relatively effective delivery of services plus moderately extensive social security programs and superior, in the context of the non-OECD world, welfare outcomes.
 - The authors would not suggest that these countries would be necessarily in a way of developing as a *proper* welfare state, but more due to their past socialist arrangements; yet, these old elements are rusting.
 
-Current welfare state thinking 4 -The return of structural theories
+Current welfare state thinking -The return of structural theories
 ========================================================
 incremental: false
 
@@ -174,12 +194,11 @@ Ecological sustainability
 
 
 ========================================================
-type: section
+type: subsection
 
-<h1>2. Socialist Welfare State</h1>
+<h1>2. Socialist welfare state </br> - the ideal & the reality</h1>
 
-
-The Ideal
+Ideal
 ========================================================
 incremental: false
 
@@ -213,11 +232,11 @@ incremental: false
     - On the other hand, most social benefits and services were based on work, and distributed at on the enterprise level. Firms in such planned economy were not enterprises as is understood in the market economy.
 - Both of these old pillars are vanishing away in contemporary market system.
 
-
 ========================================================
-type: section
+type: subsection
 
-<h1>3. Post-socialist welfare state</h1>
+<h1>3. Post-socialist welfare state </br> - the aftermath of the collapse of Soviet bloc</h1>
+
 
 
 The effects of the collapse of Soviet Union
@@ -254,7 +273,7 @@ Inequality
 
 Unemployment
 --------------------------------------
-~1995 20 % unemployed, 2003 ~9 %
+- ~1995 20 % unemployed, 2003 ~9 %
 - hidden unemployment ~33 % of workforce in addition to official figures
 
 Differences in strategies in regard to international organisations
@@ -263,6 +282,12 @@ Differences in strategies in regard to international organisations
 - There were not only were there greatly different social adjustments between countries due to inevitable system change, but especially with the path chosen regarding to institutional reforms and international and global cooperation.
     -  Czech Republic, Hungary, Poland and Slovakia were eagerly joining OECD, NATO, EU and other international organizations, whereas Russia, Ukraine and Moldova stayed reluctant to processes of Europeanization and globalization.
 - These choices made, in political decision making and in institutional reforms, have had a great impact on the welfare state development in post-socialist countries, and will greatly affect the development and choices available in the future.
+
+
+========================================================
+type: subsection
+
+<h1>3. Post-socialist welfare state </br> - scenarious for welfare state development</h1>
 
 
 Scenarious for post-socialist welfare state development 1
@@ -314,37 +339,122 @@ One of the most compherensive works is [Tomas Inglot's (2008) Welfare States in 
 
 Inglot comes up with the concept of **emergency welfare state** meaning that political and economical unstability has fuelled temporary welfare reforms, emergency reforms, that have remained and formed a unique institutional layering
 
+
+
+
+Current challenges for post-socialist welfare states
+==============================================
+
+Demographic challenge
+--------------------------------------
+
+- Aging of the population
+- Migration
+
+Fiscal challenge
+---------------------------------------
+
+- Funding the welfare state?
+
+Democratic challenge?
+---------------------------------------
+
+- public support for the welfare state
+
+
+Soviet legacy challenge
+---------------------------------------
+
+- price subsidies and in kind benefits were common in socialist welfare system
+    - common in housing and transport
+- working poor is wide spread pehnomenon (~80 % of poor household have a working member)
+- registers of benefit recipients are lacking or of bad quality
+
+
+
 ========================================================
-type: section
+type: subsection
 
-<h1>4. Post-socialist welfare state in comparative perspective</h1>
+<h1>4. Post-socialist welfare states in comparative perspective</h1>
 
-Quality of Government Institute data
+Inequality in terms of social and spatial characteristics
+========================================================
+
+</br>
+![](http://muuankarski.github.io/phdthesis/images/gini.png)
+</br>Social inequality in EU27-countries using gini-coefficient 2003-2009. (Post-socialist countries with continous line) Source: Eurostat
+
+***
+</br>
+![](http://muuankarski.github.io/phdthesis/images/dispersion.png)
+</br>Regional disparities at NUTS2-level in EU27-countries 1995-2007. (Post-socialist countries with continous line) Source: Eurostat
+
+===================================================================
+
+Household incomes relative EU27 median income 2005
+--------------------------------------------------------------
+
+
+
+
+
+![plot of chunk euromap2005](slides-figure/euromap2005.png) 
+
+
+
+===================================================================
+
+![plot of chunk euromap2006](slides-figure/euromap2006.png) 
+
+
+![plot of chunk euromap2008](slides-figure/euromap2008.png) 
+
+
+
+***
+
+![plot of chunk euromap2007](slides-figure/euromap2007.png) 
+
+
+![plot of chunk euromap2009](slides-figure/euromap2009.png) 
+
+
+================================================================
+
+Household incomes relative EU27 median income 2010
+--------------------------------------------------------------
+
+![plot of chunk euromap2010](slides-figure/euromap2010.png) 
+
+
+
+Regions of Russia
+===================================================================
+
+- [Russian regions (in Finnish)](http://glimmer.rstudio.com/muuankarski/rus_region_fi/)
+
+International comparisons
 ===============================================
 
-Quotation from [*Quality of Government Institute website*](http://www.qog.pol.gu.se/)
+Data from [*Quality of Government Institute*](http://www.qog.pol.gu.se/)
 
->The QoG Institute was founded in 2004 by Professor Bo Rothstein and Professor Sören Holmberg. It is an independent research institute within the Department of Political Science at the University of Gothenburg. We conduct and promote research on the causes, consequences and nature of Good Governance and the Quality of Government (QoG) - that is, trustworthy, reliable, impartial, uncorrupted and competent government institutions.
 
->The main objective of our research is to address the theoretical and empirical problem of how political institutions of high quality can be created and maintained. A second objective is to study the effects of Quality of Government on a number of policy areas, such as health, the environment, social policy, and poverty. We approach these problems from a variety of different theoretical and methodological angles.
-
-Gadgets using the data
+Gadgets
 --------------------------------
 
+- [Post-socialist countries in comparison](http://glimmer.rstudio.com/muuankarski/QogCorrPostSoc/)
 - [Standard data with all countries](http://glimmer.rstudio.com/muuankarski/QogCorr/)
 - [Social Policy data with OECD countries](http://glimmer.rstudio.com/muuankarski/QogCorr/)
 
 
-
 ========================================================
-type: section
+type: subsection
 
 <h1>Thank you!</h1>
 
 
-
 ========================================================
-type: section
+type: subsection
 
 <h1>6. Welfare State Research at the Aleksanteri institute</h1>
 
